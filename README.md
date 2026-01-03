@@ -197,7 +197,7 @@ And I believe you loved me too.
 I want to see you achieve everything you've ever told me,
 even if i'm not there..with you..
 Take care..
-Jai Baba Kiii :)
+Jai Baba Kiii:)
 .
 .
 `;
