@@ -167,7 +167,7 @@ const recipes = [
   {
     id:11,
     name:"one last thing…",
-    desc:"this appears only at the end",
+    desc:"for the days ...you'll miss me....(not gonna happen tho :))",
     img:"https://i.pinimg.com/736x/40/e7/87/40e78770fdf6a528393ffa8b1dffd67e.jpg",
     video:"letter",
     secret:true
