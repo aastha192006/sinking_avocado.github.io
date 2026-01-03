@@ -154,7 +154,7 @@ const recipes = [
   {id:1,name:"open when you are sad",desc:"its okay to feel like this",img:"https://i.pinimg.com/1200x/d7/52/2d/d7522d1a5953b0fae8e323d58710d5d1.jpg",video:"https://player.vimeo.com/video/1150406227"},
   {id:2,name:"open when you're lonely",desc:"never alone",img:"https://i.pinimg.com/736x/1b/27/3e/1b273ef50512d9e07fb9d0d23af3e12c.jpg",video:"https://player.vimeo.com/video/1150413574"},
   {id:3,name:"open when you need motivation",desc:"you got this",img:"https://i.pinimg.com/1200x/ce/31/30/ce31301bf40769ea5d70373efc83b9fc.jpg",video:"https://player.vimeo.com/video/1150404427"},
-  {id:4,name:"open when you need a hug",desc:"tight hug",img:"https://i.pinimg.com/736x/1e/55/75/1e557575364a61ed4731fd2b126de168.jpg",video:"https://player.vimeo.com/video/1150634482"},
+  {id:4,name:"open when you need a hug",desc:"tight hugg",img:"https://i.pinimg.com/736x/1e/55/75/1e557575364a61ed4731fd2b126de168.jpg",video:"https://player.vimeo.com/video/1150634482"},
    {id:5,name:"open when you're afraid of failing 😟",desc:"Remember, failure is just a stepping stone to success  🌟",img:"https://i.pinimg.com/1200x/67/8a/ca/678aca6d77df8274cda5c1041757e8d5.jpg",video:"https://player.vimeo.com/video/115101100"},
   {id:6,name:"open when you feel nobody loves you 💘",desc:"i do",img:"https://i.pinimg.com/736x/11/56/89/115689278adfa6c0bf82ee8696d5d5a7.jpg",video:"https://player.vimeo.com/video/1151009847"},
   {id:7,name:"open when you had a bad day",desc:"A reminder that tomorrow is a new day.🌞",img:"https://i.pinimg.com/1200x/a5/d7/21/a5d72127150cf4f5dbc674d807ff9d83.jpg",video:"https://player.vimeo.com/video/1105513154"},
