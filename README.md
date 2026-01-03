@@ -159,7 +159,7 @@ const recipes = [
   {id:6,name:"open when you feel nobody loves you 💘",desc:"i do",img:"https://i.pinimg.com/736x/11/56/89/115689278adfa6c0bf82ee8696d5d5a7.jpg",video:"https://player.vimeo.com/video/1151009847"},
   {id:7,name:"open when you had a bad day",desc:"A reminder that tomorrow is a new day.🌞",img:"https://i.pinimg.com/1200x/a5/d7/21/a5d72127150cf4f5dbc674d807ff9d83.jpg",video:"https://player.vimeo.com/video/1105513154"},
   {id:8,name:"open when you question your existence",desc:"You are here for a reason.🌈",img:"https://i.pinimg.com/1200x/dd/a4/a7/dda4a74103828d06df0ef077d9fd6887.jpg",video:"https://player.vimeo.com/video/1151010647"},
-  {id:9,name:"open when you feel confused about your life decisions",desc:"trust yourself and your journey",img:"https://i.pinimg.com/1200x/a4/a4/77/a4a477e8715305d88d46a6bdb5d0e81e.jpg",video:"https://player.vimeo.com/video/1151010337"},
+  {id:9,name:"open when you feel confused about your life decisionss",desc:"trust yourself and your journey",img:"https://i.pinimg.com/1200x/a4/a4/77/a4a477e8715305d88d46a6bdb5d0e81e.jpg",video:"https://player.vimeo.com/video/1151010337"},
   {id:10,name:"open whenever you feel like",desc:"bss yeh bhi add krne ka mann kiya",img:"https://i.pinimg.com/1200x/1c/83/55/1c835574b7926149349dd2e8bbbed05d.jpg",video:"https://player.vimeo.com/video/1150401518"},
 
   /* SECRET FINAL CARD */
