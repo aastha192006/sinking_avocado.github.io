@@ -151,7 +151,7 @@ canvas {
 <script>
 const recipes = [
   {id:0,name:"open when you get this",desc:"start here",img:"https://i.pinimg.com/736x/37/8e/c2/378ec2d0ec3528a0218cfce4277d1b5e.jpg",video:"https://player.vimeo.com/video/1151015697"},
-  {id:1,name:"open when you are sad",desc:"i'm here",img:"https://i.pinimg.com/1200x/d7/52/2d/d7522d1a5953b0fae8e323d58710d5d1.jpg",video:"https://player.vimeo.com/video/1150406227"},
+  {id:1,name:"open when you are sad",desc:"its okay to feel like this",img:"https://i.pinimg.com/1200x/d7/52/2d/d7522d1a5953b0fae8e323d58710d5d1.jpg",video:"https://player.vimeo.com/video/1150406227"},
   {id:2,name:"open when you're lonely",desc:"never alone",img:"https://i.pinimg.com/736x/1b/27/3e/1b273ef50512d9e07fb9d0d23af3e12c.jpg",video:"https://player.vimeo.com/video/1150413574"},
   {id:3,name:"open when you need motivation",desc:"you got this",img:"https://i.pinimg.com/1200x/ce/31/30/ce31301bf40769ea5d70373efc83b9fc.jpg",video:"https://player.vimeo.com/video/1150404427"},
   {id:4,name:"open when you need a hug",desc:"tight hug",img:"https://i.pinimg.com/736x/1e/55/75/1e557575364a61ed4731fd2b126de168.jpg",video:"https://player.vimeo.com/video/1150634482"},
@@ -175,32 +175,32 @@ const recipes = [
 ];
 
 const finalLetter = `
-Hey,
+Hey Anshu-man,
 
-If you’re reading this, it means we reached the end —
-and I want this to be gentle, not heavy.
+If you’re reading this, it means we reached the end of something
+that mattered to me.
 
-What we had was real.
-It mattered.
-And I’m thankful for the part of my life that included you.
+I don’t regret us.
+Not the laughs, not the late talks,
+not even the difficult days.
 
-But some connections aren’t meant to last forever,
-even when there is care on both sides.
-Letting go doesn’t erase what was good —
-it just means choosing honesty.
+I hope life is kind to you.
+I hope you find happiness, even if it’s not with me.
 
-I don’t want you to feel guilty.
-And I don’t want you to hold on.
+And when you think of us,
+I hope it’s with a small smile —
+not pain.
 
-This is me saying:
-it’s okay to move forward.
-It’s okay to remember us kindly.
-And it’s okay to let this rest.
+I loved you in the only way I knew how.
+And I believe you loved me too.
 
-Take care of yourself.
-I truly wish you peace.
-`;
-
+I want to see you achieve everything you've ever told me,
+even if i'm not there..with you..
+Take care..
+Jai Baba Kiii :)
+.
+.
+';
 const container = document.getElementById("container");
 const modal = document.getElementById("modal");
 const letterBox = document.getElementById("letterBox");
